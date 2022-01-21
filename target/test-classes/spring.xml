@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean class="com.damon.springimpl.test.common.CustomEventListener"/>
+</beans>
